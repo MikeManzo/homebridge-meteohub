@@ -53,4 +53,4 @@ Add the following information to your config.json file:
 #### Credits
 This plugin was heavily influenced by the [Thorsten Voß's](https://github.com/xfjx) plugin:[homebridge-wunderground](https://github.com/xfjx/homebridge-wunderground).  With Wunderground likely becoming inaccessible as a free service in the not-so-distant future, I chose to make this "local" version for people to use (if they have a Meteobridge-connected weather station, of course).
 
-This plugin is a very-close cousin to my [homebridge-meteobridge](https://github.com/MikeManzo/homebridge-meteobridge) plugin.  If you have a meteobridge device, check it out.
+This plugin is a very-close cousin to my [homebridge-meteobridge](https://github.com/MikeManzo/homebridge-meteobridge) plugin.  If you have a meteobridge device, use this plugin.

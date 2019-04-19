@@ -1,6 +1,6 @@
 "accessories": [
     {
-        "accessory": "HomeMeteohub",            <-- Our Accessory name
+        "accessory": "HomeMeteohub",            <-- Our desired Accessory name
         "name": "Meteohub",                     <-- Easy to remember name
         "ip_address":  "A.B.C.D",               <-- IP address of our meteohub  [pick IP OR server; leave the other empty --> ""]
         "server_address: "your.domain.name",    <-- MeteoHub server FQ address  [pick server OR IP; leave the other empty --> ""]
