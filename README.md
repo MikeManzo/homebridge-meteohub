@@ -17,7 +17,7 @@ All you need is the IP address and admin password (**_currenlty not used_**) for
 1. [Meteohub User's Guide](http://www.meteohub.de/files/meteohub-v4.7en.pdf)
 2. [Meteohub Data Logger Guide](http://www.meteohub.de/files/HTTP-Data-Logging-Protocol-v1.5.pdf)
 
-## Sample Configuration
+### Sample Configuration
 Add the following information to your config.json file:
 ```
 "accessories": [
