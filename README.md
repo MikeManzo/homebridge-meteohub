@@ -38,7 +38,7 @@ Add the following information to your config.json file:
     "accessory": "HomeMeteohub",         :Our Accessory name
     "name": "Meteohub",                  :Easy to remember name
     "ip_address":  "A.B.C.D",            :IP address <pick IP OR server; leave the other empty "">
-    "server_address: "your.domain.name"  :FQ server address  <pick server OR IP; leave the other "">
+    "server_address: "your.domain.name"  :FQ server address  <pick server OR IP; leave the other empty "">
     "port": "1234"                       :Desired Port
     "frequency": 5000,                   :Update frequency (5 second min)
     "password": "<password>",            :Admin password for Meteohub <Currently NOT used>
